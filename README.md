@@ -26,16 +26,21 @@ El presente repositorio almacena la documentación y diseño de un sistema de ge
 La documentación y diseño consiste de: Especificación de requerimientos usando método de Dorfman, Diagrama de clases en UML, Diagrama de casos de uso en UML, formato bicolumnar para cada caso de uso, y Diagrama de secuencias en UML.
 
 ## Enunciado
-El enunciado que plantea el problema al que le daremos solución es el siguiente: ![Enunciado](doc/Enunciado.pdf).
+El enunciado que plantea el problema al que le daremos solución es el siguiente: [Enunciado](doc/Enunciado.pdf).
 
 # Especificación de requerimientos
 El documento de especificación de requerimientos lo hemos hecho usando el método de Dorfman.
 
 El documento es el siguiente:
 
-![Dorfman](doc/Dorfman.pdf)
+[Dorfman](doc/Dorfman.pdf)
 
 # Diagrama de Clases
+El diagrama de clases de nuestra solución es el siguiente:
+
+![Diagrama de clases](doc/ClassDiagram.png)
+
+[Enlace al pdf](doc/ClassDiagram.pdf)
 
 # Diagrama de casos de uso
 
